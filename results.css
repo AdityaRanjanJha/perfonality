@@ -1,0 +1,146 @@
+.home {
+  left: 375px;
+}
+.home,
+.quiz,
+.vision {
+  position: absolute;
+  top: 34px;
+  letter-spacing: 0.05em;
+  font-weight: 500;
+}
+.vision {
+  left: calc(50% - 59px);
+}
+.quiz {
+  left: 625px;
+}
+.navbar-child,
+.navbar-item {
+  position: absolute;
+  top: 35.5px;
+  left: 597.5px;
+  border-right: 1px solid #faecdd;
+  box-sizing: border-box;
+  width: 1px;
+  height: 21px;
+}
+.navbar-item {
+  left: 463.5px;
+}
+.navbar-inner {
+  position: absolute;
+  top: 26px;
+  left: 982px;
+  border-radius: 30px;
+  background-color: #e54f6d;
+  width: 128px;
+  height: 40px;
+}
+.log-in {
+  position: absolute;
+  top: 34px;
+  left: 1006px;
+  letter-spacing: 0.05em;
+  font-weight: 500;
+  color: #22162b;
+}
+.mask-group-icon,
+.navbar {
+  position: absolute;
+  height: 94px;
+}
+.mask-group-icon {
+  top: 0;
+  left: 0;
+  width: 94px;
+  object-fit: cover;
+}
+.navbar {
+  top: 21px;
+  left: 106px;
+  width: 1110px;
+  text-align: left;
+  font-size: 20px;
+}
+.your-matches {
+  position: absolute;
+  top: 157px;
+  left: calc(50% - 400px);
+  letter-spacing: 0.05em;
+  font-family: Bentham;
+}
+.mary-and-rocky {
+  margin: 0;
+}
+.mary-and-rocky-container {
+  position: absolute;
+  top: calc(50% + 257px);
+  left: calc(50% - 350px);
+  font-size: 30px;
+  letter-spacing: 0.05em;
+  font-weight: 500;
+  color: #faecdd;
+}
+.image-11-icon {
+  position: absolute;
+  top: 205px;
+  left: 674px;
+  width: 478px;
+  height: 450px;
+  object-fit: cover;
+}
+.results-child,
+.results-item {
+  position: absolute;
+  top: 267px;
+  left: 614px;
+  border-radius: 50%;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  border: 60px solid #ffd9d6;
+  box-sizing: border-box;
+  width: 330px;
+  height: 330px;
+  transform: rotate(180deg);
+  transform-origin: 0 0;
+}
+.results-item {
+  top: 271px;
+  left: 608px;
+  border: 60px solid #e54f6d;
+  width: 318px;
+  height: 318px;
+}
+.congratulations,
+.div {
+  position: absolute;
+  letter-spacing: 0.05em;
+  display: inline-block;
+}
+.div {
+  top: 382px;
+  left: 361px;
+  font-weight: 600;
+  color: #ffeceb;
+  width: 176px;
+  height: 96px;
+}
+.congratulations {
+  top: 626px;
+  left: 488px;
+  font-size: 30px;
+  font-weight: 500;
+  width: 304px;
+  height: 33px;
+}
+.results {
+  position: relative;
+  background: linear-gradient(180deg, #22162b, #724e91);
+  width: 100%;
+  height: 832px;
+  overflow: hidden;
+  text-align: center;
+  font-size: 80px;
+  color: #fff;
+  font-family: Montserrat;
+}
