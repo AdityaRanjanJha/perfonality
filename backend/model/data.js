@@ -40,5 +40,5 @@ const dataSchema = new mongoose.Schema({
     },
 });
 
-bool = mongoose.model('Data',dataSchema);
-module.exports = bool;
+Bool = mongoose.model('Data',dataSchema);
+module.exports = Bool;
