@@ -1,15 +1,12 @@
 const mongoose = require('mongoose');
 
-//outodoor
-/* music
-dog cat
-travel
-date night
-looking for relationship
-smoke or drink
- */
+const Schema = mongoose.Schema;
 
-const dataSchema = new mongoose.Schema({
+const dataSchema = new Schema({
+    user:{
+        type:Schema.Types.ObjectId,
+        ref:'User',
+    },
     music:{
         type:Boolean,
         required:true
