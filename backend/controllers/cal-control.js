@@ -75,7 +75,7 @@ const calculateOverallSimilarity = asyncHandler(async (req, res) => {
     }
 
     const randomData = await Bool.aggregate([{ $sample: { size: 3 } }]);
-    console.log(randomData);
+    // console.log(randomData);
 
     const similarityValues = randomData.map((randomDataPoint) =>
       calculateSimilarity(userData, randomDataPoint)

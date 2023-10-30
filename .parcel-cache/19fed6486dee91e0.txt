@@ -1,4 +1,4 @@
-7683
+7713
 78D:\Amritesh\amritesh\JS project\perfonality\perfonality\public\image-11@2x.png133430465485635116 0
 86D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\semver\preload.js133430467138877254 0
 87D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\express\lib\router133430467785123638 1
@@ -6,9 +6,9 @@
 60D:\Amritesh\amritesh\JS project\perfonality\perfonality\dist133430469343547186 1
 95D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\mongoose\lib\error\cast.js133430467786214931 0
 104D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\update-browserslist-db\package.json133430467136249036 0
-86D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\@msgpackr-extract133430467789567872 1
+86D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\@msgpackr-extract133430524795294134 1
 97D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\mongodb\src\change_stream.ts133430467788464782 0
-66D:\Amritesh\amritesh\JS project\perfonality\perfonality\.gitignore133430465489422475 0
+66D:\Amritesh\amritesh\JS project\perfonality\perfonality\.gitignore133430527987291767 0
 102D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\mongoose\types\augmentations.d.ts133430467788544764 0
 151D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\@parcel\optimizer-htmlnano\node_modules\css-select\lib\pseudo-selectors\pseudos.js133430467137064366 0
 94D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\semver\functions\patch.js133430467138837266 0
@@ -17,7 +17,7 @@
 73D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\bson133430467787683860 1
 116D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\lmdb\dependencies\lz4\lib\dll\example\README.md133430467148095437 0
 91D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\css-tree\dist\data.cjs133430467138897250 0
-87D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\.package-lock.json133430467790207966 0
+87D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\.package-lock.json133430524795874143 0
 94D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\csso\lib\replace\index.js133430467140167637 0
 103D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\@parcel\namer-default\package.json133430467192163368 0
 130D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\mongoose\lib\helpers\populate\removeDeselectedForeignField.js133430467787973803 0
@@ -29,7 +29,7 @@
 92D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\css-select\node_modules133430467131515655 1
 80D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\ansi-styles133430467136039015 1
 98D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\@types\node\ts4.8\crypto.d.ts133430467786798635 0
-63D:\Amritesh\amritesh\JS project\perfonality\perfonality\backend133430467458415427 1
+63D:\Amritesh\amritesh\JS project\perfonality\perfonality\backend133430674629999515 1
 85D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\has-flag\license133430467135829025 0
 94D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\domutils\lib\traversal.js133430467136774339 0
 81D:\Amritesh\amritesh\JS project\perfonality\perfonality\public\mask-group7@2x.png133430465487174836 0
@@ -87,19 +87,19 @@
 82D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\utility-types133430467138326329 1
 73D:\Amritesh\amritesh\JS project\perfonality\perfonality\instructions.html133430465488709289 0
 125D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\@babel\code-frame\node_modules\supports-color\browser.js133430467135393797 0
-68D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules133430467789557869 1
+68D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules133430524795274133 1
 118D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\csso\node_modules\css-tree\lib\syntax\node\Url.js133430467193531496 0
 101D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\postcss-value-parser\lib\walk.js133430467136319008 0
 108D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\csso\node_modules\css-tree\package.json133430467193591499 0
 107D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\source-map\lib\source-map-generator.js133430467137234286 0
-73D:\Amritesh\amritesh\JS project\perfonality\perfonality\package-lock.json133430467790027890 0
+73D:\Amritesh\amritesh\JS project\perfonality\perfonality\package-lock.json133430524795684164 0
 150D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\syntax\pseudo\nth-of-type.js133430467140467674 0
 100D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\source-map\lib\binary-search.js133430467136604213 0
 97D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\@parcel\logger\src\Logger.js133430467195661328 0
 105D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\css-tree\cjs\syntax\function\var.cjs133430467141008972 0
 111D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\caniuse-lite\data\features\css3-tabsize.js133430467142480743 0
 91D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\term-size\package.json133430467136589126 0
-68D:\Amritesh\amritesh\JS project\perfonality\perfonality\package.json133430467789607889 0
+68D:\Amritesh\amritesh\JS project\perfonality\perfonality\package.json133430585555758488 0
 86D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\commander\typings133430467136784413 1
 100D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\@parcel\transformer-css\LICENSE133430467172109918 0
 62D:\Amritesh\amritesh\JS project\perfonality\perfonality\public133430465487054841 1
@@ -131,7 +131,7 @@
 111D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\css-select\node_modules\entities\readme.md133430467194961243 0
 74D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\fresh133430467784523623 1
 95D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\dotenv-expand\package.json133430467135173716 0
-74D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\@lmdb133430467789577876 1
+74D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\@lmdb133430524795294134 1
 91D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\picomatch\CHANGELOG.md133430467136874273 0
 65D:\Amritesh\amritesh\JS project\perfonality\perfonality\README.md133430465489230170 0
 135D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\@parcel\optimizer-svgo\node_modules\svgo\plugins\removeUnusedNS.js133430467139617647 0
@@ -208,7 +208,7 @@
 81D:\Amritesh\amritesh\JS project\perfonality\perfonality\public\mask-group1@2x.png133430465485810349 0
 117D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\csso\node_modules\css-tree\cjs\definition-syntax133430467192713241 1
 105D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\svgo\plugins\removeElementsByAttr.js133430467139227259 0
-76D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\@parcel133430467789567872 1
+76D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\@parcel133430524795284155 1
 95D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\sift\src\operations.js.map133430467785394856 0
 114D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\mongodb\lib\cursor\list_collections_cursor.js133430467786448649 0
 92D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\utility-types\README.md133430467138176296 0
@@ -291,7 +291,7 @@
 100D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\caniuse-lite\data\regions\RE.js133430467145104633 0
 80D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\@mongodb-js133430467782426193 1
 75D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\braces133430467136189018 1
-73D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\@swc133430467789567872 1
+73D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\@swc133430524795284155 1
 96D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\mongoose\lib\schema\date.js133430467786568639 0
 94D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\tr46\lib\statusMapping.js133430467784413619 0
 145D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\syntax\config\parser.js133430467140587676 0
@@ -359,6 +359,7 @@
 100D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\htmlparser2\lib\Parser.d.ts.map133430467137034328 0
 96D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\regenerator-runtime\path.js133430467135383724 0
 104D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\mongoose\node_modules\ms\license.md133430467784248421 0
+76D:\Amritesh\amritesh\JS project\perfonality\perfonality\backend\config\db.js133430515977063874 0
 89D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\has-symbols\index.js133430467784683609 0
 151D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\syntax\node\MediaQueryList.js133430467140327655 0
 79D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\color-name133430467135779017 1
@@ -437,7 +438,7 @@
 97D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\type-fest\source\opaque.d.ts133430467138396263 0
 108D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\css-tree\cjs\tokenizer\adopt-buffer.cjs133430467135563780 0
 128D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\@parcel\optimizer-svgo\node_modules\mdn-data\css\units.json133430467138606380 0
-75D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\dotenv133430467147735476 1
+75D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\dotenv133430508931435223 1
 114D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\caniuse-lite\data\features\iframe-seamless.js133430467143611232 0
 100D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\caniuse-lite\data\regions\PL.js133430467144924636 0
 82D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\dotenv-expand133430467136159050 1
@@ -497,6 +498,8 @@
 96D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\smart-buffer\build\utils.js133430467784363625 0
 91D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\is-number\package.json133430467135083840 0
 109D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\csso\node_modules\css-tree\cjs\index.cjs133430467192263364 0
+121D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\@parcel\runtime-js\lib\helpers\worker\wasm-loader.js133430467178761031 0
+90D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\express-async-handler133430524795224196 1
 100D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\svgo\plugins\applyTransforms.js133430467137144317 0
 99D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\mongoose\lib\schema\symbols.js133430467788323862 0
 111D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\htmlnano\docs\versioned_docs\version-1.1.1133430467141318986 1
@@ -841,7 +844,7 @@
 99D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\css-what\lib\commonjs\types.js133430467136794313 0
 77D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\posthtml133430467139957689 1
 89D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\htmlnano\index.d.cts133430467140778918 0
-85D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\dotenv\README.md133430467147735476 0
+85D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\dotenv\README.md133430508931425250 0
 84D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\posthtml-render133430467138176296 1
 112D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\caniuse-lite\data\features\css-clip-path.js133430467141148942 0
 87D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\lmdb\dict\dict.txt133430467148165453 0
@@ -849,6 +852,7 @@
 89D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\accepts\package.json133430467784248421 0
 96D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\mongoose\types\utility.d.ts133430467788854792 0
 102D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\postcss-value-parser\package.json133430467136449023 0
+69D:\Amritesh\amritesh\JS project\perfonality\perfonality\backend\model133430507868032473 1
 105D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\@parcel\core\test\serializer.test.js133430467206018810 0
 84D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\semver\internal133430467139007271 1
 136D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\utils\names.js133430467140377654 0
@@ -856,7 +860,7 @@
 77D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\punycode133430467784573609 1
 113D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\mongodb\lib\cursor\aggregation_cursor.js.map133430467787168656 0
 81D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\range-parser133430467784513624 1
-79D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\dotenv\lib133430467147755448 1
+79D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\dotenv\lib133430508931435223 1
 107D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\@mischnic\json-sourcemap\dist\index.js133430467159529236 0
 106D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\svgo\plugins\removeEmptyContainers.js133430467139267257 0
 93D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\source-map\lib\base64.js133430467136459086 0
@@ -949,12 +953,12 @@
 96D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\type-fest\source\basic.d.ts133430467136459086 0
 79D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\json5\dist133430467137646269 1
 78D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\term-size133430467136874273 1
+111D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\css-tree\cjs\syntax\node\ClassSelector.cjs133430467137564355 0
+94D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\css-select\lib\index.d.ts133430467140197630 0
+100D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\caniuse-lite\data\regions\GN.js133430467143411024 0
 91D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\mongodb\etc\prepare.js133430467786648647 0
 77D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\svgo\lib133430467140317650 1
 103D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\css-tree\cjs\syntax\node\Block.cjs133430467137024291 0
-100D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\caniuse-lite\data\regions\GN.js133430467143411024 0
-111D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\css-tree\cjs\syntax\node\ClassSelector.cjs133430467137564355 0
-94D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\css-select\lib\index.d.ts133430467140197630 0
 121D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\caniuse-lite\data\features\css-background-offsets.js133430467141048933 0
 84D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\tr46\LICENSE.md133430467784903615 0
 116D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\caniuse-lite\data\features\css-rebeccapurple.js133430467141980667 0
@@ -1185,8 +1189,8 @@
 104D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\mongodb\src\cmap\connection_pool.ts133430467788634801 0
 90D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\mongoose\node_modules133430467782426193 1
 110D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\@swc\helpers\_\_class_private_method_init133430467142240678 1
-101D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\css-select\node_modules\entities133430467194961243 1
 100D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\caniuse-lite\data\regions\GQ.js133430467143431024 0
+101D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\css-select\node_modules\entities133430467194961243 1
 113D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\caniuse-lite\data\features\battery-status.js133430467139617647 0
 98D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\undici-types\proxy-agent.d.ts133430467785694853 0
 104D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\caniuse-lite\data\features\proxy.js133430467145034689 0
@@ -1394,9 +1398,9 @@
 86D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\tslib\SECURITY.md133430467136824291 0
 97D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\undici-types\mock-agent.d.ts133430467785544851 0
 96D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\dom-serializer\lib\index.js133430467136269028 0
+85D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\lmdb\src\env.cpp133430467147390224 0
 120D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\mongoose\lib\helpers\query\selectPopulatedFields.js133430467788133799 0
 91D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\toidentifier\README.md133430467784543610 0
-85D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\lmdb\src\env.cpp133430467147390224 0
 124D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\react-refresh\cjs\react-refresh-babel.production.min.js133430467138196280 0
 115D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\csso\node_modules\css-tree\cjs\lexer\match.cjs133430467192353455 0
 98D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\undici-types\mock-client.d.ts133430467785564871 0
@@ -2088,6 +2092,7 @@
 94D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\js-yaml\lib\type\float.js133430467137114304 0
 82D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\qs\dist\qs.js133430467784973615 0
 85D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\error-ex\LICENSE133430467135563780 0
+75D:\Amritesh\amritesh\JS project\perfonality\perfonality\backend\controllers133430674811538524 1
 96D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\setprototypeof\package.json133430467783818377 0
 117D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\@parcel\core\lib\requests\WriteBundlesRequest.js133430467206326261 0
 96D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\@swc\helpers\src\_throw.mjs133430467143762825 0
@@ -2270,8 +2275,8 @@
 122D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\css-select\node_modules\entities\lib\esm\index.js.map133430467194951151 0
 93D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\safe-buffer\package.json133430467135583786 0
 139D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\@parcel\optimizer-svgo\node_modules\mdn-data\css\selectors.schema.json133430467138266290 0
-102D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\postcss-value-parser\lib\parse.js133430467135649022 0
 100D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\caniuse-lite\data\regions\GP.js133430467143421027 0
+102D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\postcss-value-parser\lib\parse.js133430467135649022 0
 142D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\@parcel\transformer-react-refresh-wrap\lib\ReactRefreshWrapTransformer.js133430467156277015 0
 112D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\htmlnano\lib\modules\removeOptionalTags.mjs133430467141630690 0
 95D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\express\lib\application.js133430467784128364 0
@@ -2681,7 +2686,7 @@
 93D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\node-addon-api\nothing.c133430467135999032 0
 96D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\mongodb\lib\sdam\monitor.js133430467786598657 0
 93D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\node-addon-api\README.md133430467138466394 0
-85D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\dotenv\config.js133430467147695452 0
+85D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\dotenv\config.js133430508931375234 0
 116D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\@swc\helpers\esm\_class_apply_descriptor_get.js133430467140828965 0
 92D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\@swc\helpers\_\_extends133430467142641030 1
 89D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\node-addon-api\tools133430467138506409 1
@@ -3219,8 +3224,8 @@
 96D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\mongoose\lib\error\index.js133430467787158663 0
 99D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\mongoose\lib\error\notFound.js133430467787723841 0
 110D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\csso\cjs\restructure\3-disjoinRuleset.cjs133430467136029041 0
-105D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\mongoose\lib\error\objectExpected.js133430467787743831 0
 100D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\caniuse-lite\data\regions\HK.js133430467143531241 0
+105D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\mongoose\lib\error\objectExpected.js133430467787743831 0
 86D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\gopd\CHANGELOG.md133430467784663620 0
 93D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\@parcel\profiler\LICENSE133430467162772252 0
 106D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\mongoose\lib\error\objectParameter.js133430467787793808 0
@@ -3521,6 +3526,7 @@
 88D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\base-x\src\index.js133430467148435792 0
 103D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\css-what\lib\es\stringify.d.ts.map133430467137646269 0
 96D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\css-tree\cjs\data-patch.cjs133430467138757256 0
+113D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\@parcel\core\node_modules\dotenv\lib\main.js133430508931415326 0
 101D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\mongodb\lib\operations\delete.js133430467786004855 0
 103D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\mongodb\lib\operations\drop.js.map133430467787603816 0
 107D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\css-select\node_modules\dom-serializer133430467193345204 1
@@ -3678,6 +3684,7 @@
 86D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\mime\src\build.js133430467784823641 0
 115D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\htmlnano\lib\modules\removeEmptyAttributes.cjs133430467140447639 0
 88D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\micromatch\index.js133430467135383724 0
+88D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\dotenv\README-es.md133430508931425250 0
 117D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\@parcel\core\test\fixtures\main-mjs\package.json133430467206508995 0
 87D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\micromatch\LICENSE133430467135163708 0
 106D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\@swc\helpers\cjs\_sliced_to_array.cjs133430467140387675 0
@@ -3706,6 +3713,8 @@
 123D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\dom-serializer\node_modules\entities\lib\maps\xml.json133430467137014313 0
 121D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\csso\node_modules\css-tree\lib\syntax\scope\index.js133430467193185159 0
 113D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\css-select\lib\pseudo-selectors\aliases.d.ts133430467139957689 0
+105D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\@mongodb-js\saslprep\dist\index.d.ts133430467785574856 0
+89D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\dotenv\lib\main.d.ts133430508931445262 0
 81D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\mdn-data\css133430467138807323 1
 82D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\mdn-data\l10n133430467136724321 1
 122D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\css-select\node_modules\domutils\lib\esm\helpers.d.ts133430467201996930 0
@@ -3935,6 +3944,7 @@
 120D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mdb_dump.c133430467146155199 0
 106D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\caniuse-lite\data\features\picture.js133430467144894665 0
 120D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mdb_stat.1133430467145985314 0
+87D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\dotenv\config.d.ts133430508931435223 0
 121D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\htmlnano\lib\modules\collapseAttributeWhitespace.mjs133430467141408915 0
 120D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mdb_stat.c133430467146185186 0
 117D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mtest.c133430467147187946 0
@@ -3992,8 +4002,6 @@
 101D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\htmlparser2\lib\FeedHandler.d.ts133430467137464375 0
 111D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\@parcel\core\src\requests\ConfigRequest.js133430467205401583 0
 83D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\kareem\LICENSE133430467783808380 0
-116D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\caniuse-lite\data\features\css-focus-visible.js133430467141508987 0
-100D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\caniuse-lite\data\regions\GR.js133430467143441043 0
 78D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\json5\lib133430467138216288 1
 104D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\csso\lib\replace\property\border.js133430467139587288 0
 90D:\Amritesh\amritesh\JS project\perfonality\perfonality\dist\instructions.9085d0ef.css.map133430469343517204 0
@@ -4117,6 +4125,7 @@
 120D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\css-select\lib\pseudo-selectors\subselects.d.ts.map133430467139637639 0
 125D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\csso\node_modules\css-tree\lib\syntax\node\MediaQuery.js133430467193255208 0
 85D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\inherits\LICENSE133430467784373675 0
+98D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\express-async-handler\test.js133430524795204283 0
 102D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\@types\node\ts4.8\stream\web.d.ts133430467787673840 0
 89D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\import-fresh\license133430467135153685 0
 95D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\@parcel\core\lib\Parcel.js133430467205723960 0
@@ -4129,7 +4138,7 @@
 87D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\iconv-lite\LICENSE133430467784208435 0
 111D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\css-select\lib\pseudo-selectors\aliases.js133430467136029041 0
 103D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\@mongodb-js\saslprep\dist\index.js133430467784633610 0
-87D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\dotenv\lib\main.js133430467147765448 0
+87D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\dotenv\lib\main.js133430508931395217 0
 92D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\iconv-lite\package.json133430467783808380 0
 93D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\@parcel\fs\src\NodeFS.js133430467200228836 0
 99D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\iconv-lite\lib\bom-handling.js133430467785574856 0
@@ -4259,6 +4268,7 @@
 85D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\domutils\LICENSE133430467135093713 0
 113D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\@parcel\transformer-html\lib\dependencies.js133430467176448481 0
 92D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\htmlnano\docs\README.md133430467141378942 0
+99D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\express-async-handler\index.js133430524795184139 0
 94D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\htmlnano\docs\sidebars.js133430467140818939 0
 101D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\htmlnano\docs\versioned_sidebars133430467141058936 1
 123D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\@parcel\core\test\fixtures\targets-default-distdir-two133430467206529053 1
@@ -4371,6 +4381,7 @@
 97D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\entities\lib\decode.d.ts.map133430467137886323 0
 86D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\@parcel\codeframe133430467147247949 1
 100D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\function-bind\implementation.js133430467784623640 0
+101D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\express-async-handler\index.d.ts133430524795224196 0
 95D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\function-bind\package.json133430467784893607 0
 101D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\@parcel\utils\src\relativeUrl.js133430467195115643 0
 117D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\caniuse-lite\data\features\orientation-sensor.js133430467144744654 0
@@ -4403,6 +4414,11 @@
 91D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\css-select\lib\sort.js133430467138166398 0
 92D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\fill-range\package.json133430467135143687 0
 89D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\fill-range\README.md133430467135949090 0
+86D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\destroy\README.md133430467784373675 0
+102D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\express-async-handler\.travis.yml133430524795224196 0
+103D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\express-async-handler\package.json133430524795204283 0
+100D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\caniuse-lite\data\regions\KE.js133430467143962846 0
+100D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\express-async-handler\README.md133430524795214161 0
 100D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\@parcel\runtime-js\package.json133430467178791035 0
 87D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\express\History.md133430467785323708 0
 106D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\csso\node_modules\css-tree\cjs\parser133430467192582326 1
@@ -4512,16 +4528,16 @@
 100D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\dotenv-expand\dotenv-expand.png133430467135393797 0
 93D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\dotenv-expand\index.d.ts133430467135593860 0
 92D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\dotenv-expand\README.md133430467136089071 0
-88D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\dotenv\CHANGELOG.md133430467147675465 0
+88D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\dotenv\CHANGELOG.md133430508931405421 0
 128D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\@swc\helpers\_\_class_extract_field_descriptor\package.json133430467142100671 0
-83D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\dotenv\LICENSE133430467147715445 0
+83D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\dotenv\LICENSE133430508931345240 0
 147D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\definition-syntax\walk.js133430467141008972 0
-88D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\dotenv\package.json133430467147655492 0
+88D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\dotenv\package.json133430508931405421 0
 108D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\@parcel\packager-svg\src\SVGPackager.js133430467180580780 0
-94D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\dotenv\lib\cli-options.js133430467147745463 0
+94D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\dotenv\lib\cli-options.js133430508931365230 0
 101D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\css-tree\cjs\syntax\node\Nth.cjs133430467140447639 0
 100D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\@parcel\reporter-dev-server\src133430467200118840 1
-94D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\dotenv\lib\env-options.js133430467147755448 0
+94D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\dotenv\lib\env-options.js133430508931385219 0
 122D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\css-select\node_modules\domutils\lib\esm\index.js.map133430467200499022 0
 116D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\@parcel\core\lib\requests\WriteBundleRequest.js133430467206296133 0
 87D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\domutils\readme.md133430467137836266 0
@@ -4558,8 +4574,8 @@
 92D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\domhandler\lib\index.js133430467135413745 0
 109D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\@swc\helpers\_\_async_generator_delegate133430467141910675 1
 97D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\domhandler\lib\node.d.ts.map133430467136349035 0
-93D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\domelementtype\readme.md133430467136674288 0
 100D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\caniuse-lite\data\regions\HN.js133430467143531241 0
+93D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\domelementtype\readme.md133430467136674288 0
 91D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\domelementtype\lib\esm133430467136774339 1
 107D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\@swc\helpers\_\_ts_values\package.json133430467143131033 0
 98D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\domelementtype\lib\index.d.ts133430467137004310 0
@@ -4583,6 +4599,7 @@
 115D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\dom-serializer\node_modules\entities\readme.md133430467137554353 0
 128D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\css-select\node_modules\domutils\lib\esm\stringify.d.ts.map133430467201935220 0
 109D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\csso\node_modules\css-tree\lib\tokenizer133430467193541499 1
+70D:\Amritesh\amritesh\JS project\perfonality\perfonality\backend\routes133430672475753907 1
 125D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\dom-serializer\node_modules\entities\lib\decode.d.ts.map133430467137234286 0
 129D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\@swc\helpers\_\_class_static_private_method_get\package.json133430467142300654 0
 131D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\dom-serializer\node_modules\entities\lib\decode_codepoint.d.ts133430467137626289 0
@@ -4629,7 +4646,6 @@
 84D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\destroy\LICENSE133430467783808380 0
 89D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\destroy\package.json133430467784208435 0
 115D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\css-select\node_modules\domhandler\lib\node.js133430467194651610 0
-86D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\destroy\README.md133430467784373675 0
 115D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\css-tree\cjs\definition-syntax\SyntaxError.cjs133430467140768912 0
 97D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\@types\node\ts4.8\https.d.ts133430467787068647 0
 84D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\depd\History.md133430467784048369 0
@@ -4775,8 +4791,8 @@
 123D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\csso\node_modules\css-tree\lib\syntax\config\walker.js133430467193581517 0
 127D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\css-select\node_modules\domutils\lib\esm\manipulation.d.ts133430467202026925 0
 123D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\csso\node_modules\css-tree\lib\syntax\atrule\import.js133430467193116652 0
-121D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\csso\node_modules\css-tree\lib\syntax\atrule\page.js133430467193325203 0
 100D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\caniuse-lite\data\regions\GW.js133430467143471240 0
+121D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\csso\node_modules\css-tree\lib\syntax\atrule\page.js133430467193325203 0
 99D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\@types\node\ts4.8\process.d.ts133430467787218706 0
 125D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\csso\node_modules\css-tree\lib\syntax\atrule\supports.js133430467193471449 0
 113D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\css-tree\cjs\syntax\node\DeclarationList.cjs133430467138987250 0
@@ -5145,8 +5161,8 @@
 98D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\css-tree\lib\parser\create.js133430467141378942 0
 116D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\@parcel\transformer-image\lib\validateConfig.js133430467169797555 0
 84D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\@types\node\dns133430467786548646 1
-111D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\css-select\lib\pseudo-selectors\filters.js133430467137144317 0
 100D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\caniuse-lite\data\regions\GT.js133430467143451040 0
+111D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\css-select\lib\pseudo-selectors\filters.js133430467137144317 0
 106D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\css-tree\lib\parser\parse-selector.js133430467142130672 0
 96D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\css-tree\lib\lexer\error.js133430467141608963 0
 105D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\css-tree\lib\lexer\generic-urange.js133430467141720712 0
@@ -5171,8 +5187,8 @@
 94D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\css-tree\dist\version.cjs133430467141028932 0
 105D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\css-tree\cjs\syntax\node\Comment.cjs133430467137956283 0
 90D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\css-tree\cjs\data.cjs133430467138797276 0
-99D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\css-tree\cjs\definition-syntax133430467141038944 1
 100D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\caniuse-lite\data\regions\GY.js133430467143471240 0
+99D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\css-tree\cjs\definition-syntax133430467141038944 1
 91D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\css-tree\cjs\index.cjs133430467139667627 0
 91D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\css-tree\cjs\tokenizer133430467140958959 1
 100D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\caniuse-lite\data\regions\MH.js133430467144362838 0
@@ -5392,7 +5408,6 @@
 113D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\css-select\lib\pseudo-selectors\filters.d.ts133430467140107706 0
 117D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\css-select\lib\pseudo-selectors\filters.d.ts.map133430467139117250 0
 115D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\css-select\lib\pseudo-selectors\filters.js.map133430467139167247 0
-100D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\caniuse-lite\data\regions\GU.js133430467143461172 0
 87D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\@parcel\runtime-js133430467178781040 1
 113D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\css-select\lib\pseudo-selectors\index.js.map133430467139457242 0
 88D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\@types\node\os.d.ts133430467786014859 0
@@ -5444,6 +5459,7 @@
 99D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\cosmiconfig\dist\util.d.ts.map133430467138336287 0
 96D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\cookie-signature\.npmignore133430467784048369 0
 96D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\cookie-signature\History.md133430467784393629 0
+83D:\Amritesh\amritesh\JS project\perfonality\perfonality\backend\routes\cal-route.js133430705390915410 0
 98D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\cookie-signature\package.json133430467783828378 0
 95D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\cookie-signature\Readme.md133430467784563641 0
 83D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\cookie\LICENSE133430467783828378 0
@@ -5528,6 +5544,9 @@
 100D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\caniuse-lite\data\regions\GE.js133430467143321023 0
 100D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\caniuse-lite\data\regions\GG.js133430467143371034 0
 100D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\caniuse-lite\data\regions\GH.js133430467143381021 0
+116D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\caniuse-lite\data\features\css-focus-visible.js133430467141508987 0
+100D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\caniuse-lite\data\regions\GR.js133430467143441043 0
+100D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\caniuse-lite\data\regions\GU.js133430467143461172 0
 100D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\caniuse-lite\data\regions\ID.js133430467143591249 0
 100D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\caniuse-lite\data\regions\IE.js133430467143601234 0
 100D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\caniuse-lite\data\regions\IM.js133430467143642966 0
@@ -5538,7 +5557,6 @@
 100D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\caniuse-lite\data\regions\IS.js133430467143902839 0
 100D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\caniuse-lite\data\regions\JE.js133430467143912876 0
 100D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\caniuse-lite\data\regions\JP.js133430467143932832 0
-100D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\caniuse-lite\data\regions\KE.js133430467143962846 0
 100D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\caniuse-lite\data\regions\KG.js133430467144012834 0
 108D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\@swc\helpers\_\_instanceof\package.json133430467142751039 0
 100D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\caniuse-lite\data\regions\KH.js133430467144012834 0
@@ -5732,6 +5750,7 @@
 91D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\@parcel\fs\src\find.js133430467200058794 0
 130D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\@parcel\optimizer-svgo\node_modules\csso\lib\replace\index.js133430467138977260 0
 119D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\caniuse-lite\data\features\css-deviceadaptation.js133430467141358949 0
+114D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\@parcel\core\node_modules\dotenv\CHANGELOG.md133430508931365230 0
 94D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\@swc\helpers\src\_get.mjs133430467143571237 0
 113D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\caniuse-lite\data\features\css-dir-pseudo.js133430467141388936 0
 119D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\caniuse-lite\data\features\css-display-contents.js133430467141398915 0
@@ -6005,6 +6024,7 @@
 97D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\@types\node\async_hooks.d.ts133430467784823641 0
 103D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\caniuse-lite\data\features\ping.js133430467144904666 0
 110D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\caniuse-lite\data\features\pointerlock.js133430467144964630 0
+90D:\Amritesh\amritesh\JS project\perfonality\perfonality\backend\controllers\cal-control.js133431361749108907 0
 106D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\caniuse-lite\data\features\portals.js133430467144974639 0
 119D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\caniuse-lite\data\features\prefers-color-scheme.js133430467144994636 0
 92D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\@types\node\timers.d.ts133430467786334916 0
@@ -6138,7 +6158,7 @@
 92D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\call-bind\test\index.js133430467784893607 0
 165D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\@parcel\optimizer-htmlnano\node_modules\csso\lib\restructure\prepare\createDeclarationIndexer.js133430467138056266 0
 85D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\bytes\History.md133430467784373675 0
-70D:\Amritesh\amritesh\JS project\perfonality\perfonality\backend\app.js133430469289930233 0
+70D:\Amritesh\amritesh\JS project\perfonality\perfonality\backend\app.js133430674296156621 0
 83D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\bytes\index.js133430467784008375 0
 104D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\@parcel\transformer-js\package.json133430467171140872 0
 84D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\bytes\Readme.md133430467784543610 0
@@ -6202,6 +6222,7 @@
 84D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\body-parser\lib133430467784653612 1
 88D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\body-parser\LICENSE133430467783838369 0
 90D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\body-parser\README.md133430467785103625 0
+94D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\@parcel\core\node_modules133430508931055228 1
 98D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\body-parser\lib\types\text.js133430467784763630 0
 86D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\base-x\LICENSE.md133430467148455763 0
 107D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\@parcel\core\test\fixtures\main-global133430467206498921 1
@@ -6298,7 +6319,7 @@
 103D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\@parcel\codeframe\src\codeframe.js133430467147207950 0
 101D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\@types\node\ts4.8\inspector.d.ts133430467787118642 0
 123D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\@msgpackr-extract\msgpackr-extract-win32-x64\README.md133430467147835448 0
-81D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\@parcel\core133430467206539037 1
+81D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\@parcel\core133430508931055228 1
 96D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\@types\node\ts4.8\path.d.ts133430467787178640 0
 102D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\@types\node\ts4.8\perf_hooks.d.ts133430467787188644 0
 119D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\@parcel\runtime-js\src\helpers\node\html-loader.js133430467178676715 0
@@ -6921,7 +6942,6 @@
 113D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\@parcel\runtime-js\lib\helpers\bundle-url.js133430467178591614 0
 117D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\@parcel\runtime-js\lib\helpers\get-worker-url.js133430467178656721 0
 106D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\@parcel\runtime-js\lib\helpers\worker133430467178761031 1
-121D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\@parcel\runtime-js\lib\helpers\worker\wasm-loader.js133430467178761031 0
 118D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\@parcel\runtime-js\lib\helpers\node\css-loader.js133430467178621635 0
 119D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\@parcel\runtime-js\lib\helpers\node\html-loader.js133430467178666726 0
 148D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\lexer\generic-an-plus-b.js133430467139477301 0
@@ -7296,6 +7316,7 @@
 132D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\@parcel\optimizer-htmlnano\node_modules\mdn-data\css\units.json133430467138617243 0
 118D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\@babel\code-frame\node_modules\color-name\LICENSE133430467135869029 0
 139D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\@parcel\optimizer-htmlnano\node_modules\mdn-data\css\units.schema.json133430467138657351 0
+70D:\Amritesh\amritesh\JS project\perfonality\perfonality\backend\config133430509302815396 1
 148D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\utils\createCustomError.js133430467138717267 0
 138D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\@parcel\optimizer-htmlnano\node_modules\mdn-data\api\inheritance.json133430467137284309 0
 120D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\@parcel\core\test\fixtures\config-extends-not-found133430467204637491 1
@@ -7524,6 +7545,14 @@
 106D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\@parcel\core\src\public\Dependency.js133430467205431570 0
 114D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\@parcel\core\src\public\MutableBundleGraph.js133430467205665139 0
 102D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\@parcel\core\src\public\Target.js133430467206098804 0
+101D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\@parcel\core\node_modules\dotenv133430508931395217 1
+111D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\@parcel\core\node_modules\dotenv\config.js133430508931375234 0
+105D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\@parcel\core\node_modules\dotenv\lib133430508931415326 1
+109D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\@parcel\core\node_modules\dotenv\LICENSE133430508931385219 0
+114D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\@parcel\core\node_modules\dotenv\package.json133430508931345240 0
+111D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\@parcel\core\node_modules\dotenv\README.md133430508931395217 0
+120D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\@parcel\core\node_modules\dotenv\lib\cli-options.js133430508931405421 0
+120D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\@parcel\core\node_modules\dotenv\lib\env-options.js133430508931405421 0
 102D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\@parcel\core\lib\applyRuntimes.js133430467204662552 0
 99D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\@parcel\core\lib\assetUtils.js133430467205151555 0
 99D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\@parcel\core\lib\buildCache.js133430467205171582 0
@@ -7578,7 +7607,6 @@
 117D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\@mongodb-js\saslprep\dist\code-points-src.js.map133430467785153624 0
 120D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\@mongodb-js\saslprep\dist\generate-code-points.d.ts133430467785544851 0
 124D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\@mongodb-js\saslprep\dist\generate-code-points.d.ts.map133430467785193656 0
-105D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\@mongodb-js\saslprep\dist\index.d.ts133430467785574856 0
 107D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\@mongodb-js\saslprep\dist\index.js.map133430467785273703 0
 118D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\@mongodb-js\saslprep\dist\memory-code-points.d.ts133430467785584872 0
 122D:\Amritesh\amritesh\JS project\perfonality\perfonality\node_modules\@mongodb-js\saslprep\dist\memory-code-points.d.ts.map133430467785303686 0
@@ -7682,3 +7710,5 @@
 81D:\Amritesh\amritesh\JS project\perfonality\perfonality\dist\quiz.acd60def.js.map133430469343517204 0
 85D:\Amritesh\amritesh\JS project\perfonality\perfonality\dist\results.25897d66.css.map133430469343517204 0
 84D:\Amritesh\amritesh\JS project\perfonality\perfonality\dist\results.e68eda79.js.map133430469343517204 0
+68D:\Amritesh\amritesh\JS project\perfonality\perfonality\backend\.env133430514719549546 0
+77D:\Amritesh\amritesh\JS project\perfonality\perfonality\backend\model\data.js133430675206493421 0
