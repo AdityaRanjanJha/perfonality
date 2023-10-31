@@ -1,4 +1,5 @@
 const Bool = require("../model/data");
+const User = require("../model/user");
 const asyncHandler = require("express-async-handler");
 
 const createEntry = asyncHandler(async (req, res) => {
@@ -95,28 +96,46 @@ function calculateSimilarity(dataPoint1, dataPoint2) {
     }
   }
 
-  const similarityPercentage = (matchingProperties / totalProperties) * 100;
-  return Math.round(similarityPercentage);
+  const similarityPercentage = (matchingProperties / totalProperties) * 10;
+  return similarityPercentage;
+}
+
+function max_three(similarityValues) {
+  similarityValues.sort((a, b) => b - a);
+  const topThree = similarityValues.slice(0, 3);
+  return topThree;
 }
 
 const calculateOverallSimilarity = asyncHandler(async (req, res) => {
   try {
     const userId = req.user._id;
-    const userData = await Bool.findOne({ user: userId });
+    const userData = await Bool.findOne({ user: userId }).populate("user");
 
     if (!userData) {
       res.status(404).json({ message: "User data not found." });
       return;
     }
 
-    const randomData = await Bool.aggregate([{ $sample: { size: 3 } }]);
-    console.log(randomData);
+    const randomData = await Bool.aggregate([{ $sample: { size: 5 } }]);
 
-    const similarityValues = randomData.map((randomDataPoint) =>
-      calculateSimilarity(userData, randomDataPoint)
-    );
+    const similarityValues = [];
 
-    res.status(200).json({ similarityValues });
+    for (const randomDataPoint of randomData) {
+      const user = await User.findById(randomDataPoint.user).select(
+        "-password"
+      );
+      const similarity = calculateSimilarity(userData, randomDataPoint);
+      similarityValues.push({
+        userId: randomDataPoint.user,
+        userName: user.name,
+        similarity,
+      });
+    }
+
+    similarityValues.sort((a, b) => b.similarity - a.similarity);
+    const topThree = similarityValues.slice(0, 3);
+
+    res.status(200).json({ topThree });
   } catch (error) {
     console.error("Error:", error);
     res
