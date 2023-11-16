@@ -135,7 +135,8 @@ const calculateOverallSimilarity = asyncHandler(async (req, res) => {
     similarityValues.sort((a, b) => b.similarity - a.similarity);
     const topThree = similarityValues.slice(0, 3);
 
-    res.status(200).json({ topThree });
+    // res.status(200).json({ topThree });
+    res.render("result", {topThree})
   } catch (error) {
     console.error("Error:", error);
     res

@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="initial-scale=1, width=device-width" />
+
+    <link rel="stylesheet" href="./instructions.css" />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Bentham:wght@400&display=swap"
+    />
+  </head>
+  <body>
+    <div class="instructions">
+      <div class="how-does-it">HOW DOES IT WORK?</div>
+      <div class="navbar2">
+        <div class="home2" id="hOMEText">HOME</div>
+        <div class="vision2">VISION</div>
+        <div class="quiz3" id="qUIZText">QUIZ</div>
+        <div class="navbar-child2"></div>
+        <div class="navbar-child3"></div>
+        <div class="navbar-child4"></div>
+        <div class="log-in2">LOG-IN</div>
+        <img class="mask-group-icon7" alt="" src="./public/mask-group@2x.png" />
+      </div>
+      <img class="mask-group-icon8" alt="" src="./public/mask-group6@2x.png" />
+
+      <div class="ditch-the-swipe">
+        "Ditch the swipe game and try our vibe-based dating platform! You answer
+        five quick questions about your relationship style, and we'll match you
+        with folks who share your wavelength. No need for perfect selfies, just
+        perfect connections. So, hop on board, spark some conversations, and
+        let's make dating about shared interests, not just Instagram-worthy
+        pics!"
+      </div>
+      <img class="image-7-icon" alt="" src="./public/image-7@2x.png" />
+
+      <img class="image-8-icon" alt="" src="./public/image-8@2x.png" />
+
+      <img class="image-9-icon" alt="" src="./public/image-9@2x.png" />
+
+      <img class="mask-group-icon9" alt="" src="./public/mask-group7@2x.png" />
+
+      <div class="instructions-child"></div>
+      <div class="take-the-quiz" id="takeTheQuiz">Take the Quiz &gt;</div>
+    </div>
+
+    <script>
+      var hOMEText = document.getElementById("hOMEText");
+      if (hOMEText) {
+        hOMEText.addEventListener("click", function (e) {
+          window.location.href = "./home.html";
+        });
+      }
+      
+      var qUIZText = document.getElementById("qUIZText");
+      if (qUIZText) {
+        qUIZText.addEventListener("click", function (e) {
+          window.location.href = "./quiz.html";
+        });
+      }
+      
+      var takeTheQuiz = document.getElementById("takeTheQuiz");
+      if (takeTheQuiz) {
+        takeTheQuiz.addEventListener("click", function (e) {
+          window.location.href = "./quiz.html";
+        });
+      }
+      </script>
+  </body>
+</html>
